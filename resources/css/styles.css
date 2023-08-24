@@ -352,7 +352,7 @@ main {
     border-top: dotted 0.4rem white;
 }
 
-@media only screen and (max-width: 810px) {
+@media only screen and (max-width: 680px) {
     .project {
         margin: 1rem 0rem;
     }
